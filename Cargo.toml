@@ -1,0 +1,6 @@
+[package]
+name = "bad_connection"
+version = "0.1.0"
+authors = ["Ali Schlereth <aschlere@sbcglobal.net>"]
+
+[dependencies]
